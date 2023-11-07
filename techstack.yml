@@ -1,0 +1,40 @@
+repo_name: nice-org-two/test-terraform-version
+report_id: 939fd71ad07be215c5e6d9eaf1c411ea
+repo_type: Public
+timestamp: '2023-11-07T12:48:48+00:00'
+requested_by: bob-wise0
+provider: github
+branch: main
+detected_tools_count: 3
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  imageURL: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
+- name: Terraform
+  description: Describe your complete infrastructure as code and build resources across
+    providers
+  website_url: https://www.terraform.io/
+  license: MPL-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Server Configuration and Automation
+  imageURL: https://img.stackshare.io/service/1276/default_2316907c4199f912e2ed79cbdb99025c9e5e2665.png
+  detection_source: main.tf
+- name: Terraform Registry
+  description: Describe your complete infrastructure as code and build resources across
+    providers
+  website_url: https://registry.terraform.io/
+  license: MPL-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  imageURL: https://img.stackshare.io/package_manager/49093/default_cdf079d244bded073d455911e6ce679abb1b77ab.png
+  detection_source: main.tf
