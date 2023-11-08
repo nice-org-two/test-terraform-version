@@ -1,7 +1,7 @@
 repo_name: nice-org-two/test-terraform-version
-report_id: 939fd71ad07be215c5e6d9eaf1c411ea
+report_id: f90f3fea6c23774d0bdaaf209f2e4c7e
 repo_type: Public
-timestamp: '2023-11-07T12:48:48+00:00'
+timestamp: '2023-11-08T07:32:29+00:00'
 requested_by: bob-wise0
 provider: github
 branch: main
@@ -14,7 +14,7 @@ tools:
   hosted_saas: false
   category: Build, Test, Deploy
   sub_category: Version Control System
-  imageURL: https://img.stackshare.io/service/1046/git.png
+  image_url: https://img.stackshare.io/service/1046/git.png
   detection_source: Repo Metadata
 - name: Terraform
   description: Describe your complete infrastructure as code and build resources across
@@ -25,7 +25,7 @@ tools:
   hosted_saas: false
   category: Build, Test, Deploy
   sub_category: Server Configuration and Automation
-  imageURL: https://img.stackshare.io/service/1276/default_2316907c4199f912e2ed79cbdb99025c9e5e2665.png
+  image_url: https://img.stackshare.io/service/1276/default_2316907c4199f912e2ed79cbdb99025c9e5e2665.png
   detection_source: main.tf
 - name: Terraform Registry
   description: Describe your complete infrastructure as code and build resources across
@@ -36,5 +36,5 @@ tools:
   hosted_saas: false
   category: Build, Test, Deploy
   sub_category: Package Managers
-  imageURL: https://img.stackshare.io/package_manager/49093/default_cdf079d244bded073d455911e6ce679abb1b77ab.png
+  image_url: https://img.stackshare.io/package_manager/49093/default_cdf079d244bded073d455911e6ce679abb1b77ab.png
   detection_source: main.tf
