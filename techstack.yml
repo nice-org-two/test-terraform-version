@@ -1,7 +1,7 @@
 repo_name: nice-org-two/test-terraform-version
-report_id: 350617c9178da6e4c2c6091b5f1f8dfb
+report_id: 3233be590addf9afb821fdada1122e8a
 repo_type: Public
-timestamp: '2023-11-08T20:16:59+00:00'
+timestamp: '2023-11-10T16:27:18+00:00'
 requested_by: bob-wise0
 provider: github
 branch: main
@@ -27,6 +27,8 @@ tools:
   sub_category: Server Configuration and Automation
   image_url: https://img.stackshare.io/service/1276/default_2316907c4199f912e2ed79cbdb99025c9e5e2665.png
   detection_source: main.tf
+  last_updated_by: bob-wise0
+  last_updated_on: 2022-09-01 16:58:15.000000000 Z
 - name: Terraform Registry
   description: Describe your complete infrastructure as code and build resources across
     providers
@@ -38,3 +40,5 @@ tools:
   sub_category: Package Managers
   image_url: https://img.stackshare.io/package_manager/49093/default_cdf079d244bded073d455911e6ce679abb1b77ab.png
   detection_source: main.tf
+  last_updated_by: bob-wise0
+  last_updated_on: 2022-09-01 16:58:15.000000000 Z
