@@ -1,7 +1,8 @@
 repo_name: nice-org-two/test-terraform-version
-report_id: ccade754c1e9d69d6beda3de085989f9
+report_id: 94f80ec19be3bd4a43c76dda9099aa61
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-13T18:03:19+00:00'
+timestamp: '2024-03-17T09:01:50+00:00'
 requested_by: bob-wise0
 provider: github
 branch: main
@@ -15,6 +16,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/nice-org-two/test-terraform-version
   detection_source: Repo Metadata
 - name: Terraform
   description: Describe your complete infrastructure as code and build resources across
@@ -26,6 +28,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Server Configuration and Automation
   image_url: https://img.stackshare.io/service/1276/default_2316907c4199f912e2ed79cbdb99025c9e5e2665.png
+  detection_source_url: https://github.com/nice-org-two/test-terraform-version/blob/main/main.tf
   detection_source: main.tf
   last_updated_by: bob-wise0
   last_updated_on: 2022-09-01 16:58:15.000000000 Z
@@ -39,6 +42,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/package_manager/49093/default_cdf079d244bded073d455911e6ce679abb1b77ab.png
+  detection_source_url: https://github.com/nice-org-two/test-terraform-version/blob/main/main.tf
   detection_source: main.tf
   last_updated_by: bob-wise0
   last_updated_on: 2022-09-01 16:58:15.000000000 Z
